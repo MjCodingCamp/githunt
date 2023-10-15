@@ -12,6 +12,11 @@ A sample app where user can search GitHub users
 * Xcode 14+
 * CocoaPod
 
+## Video 
+
+https://github.com/MjCodingCamp/githunt/assets/66344914/abf489af-d336-44d3-8f09-183feab25929
+
+
 ## How To Run
 
 ## Step-1 
